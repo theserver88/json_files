@@ -1,12 +1,12 @@
 {
   "Piemonte": {
-    "BI": {
+    "BI": [
       "A107_AILOCHE",
       "A280_ANDORNO MICCA"
-    },
-    "NO": {
+    ],
+    "NO": [
       "A088_AGRATE CONTURBIA",
       "A264_AMENO"
-    }
+    ]
   }
 }
