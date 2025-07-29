@@ -1,12 +1,7 @@
 {
   "Piemonte": {
-    "BI": [
-      "A107_AILOCHE",
-      "A280_ANDORNO MICCA"
-    ],
-    "NO": [
-      "A088_AGRATE CONTURBIA",
-      "A264_AMENO"
-    ]
+    "BI": {
+      "BENNA": "PIEMONTE/BI/A784_BENNA/A784_BENNA_ple.gml"
+    }
   }
 }
